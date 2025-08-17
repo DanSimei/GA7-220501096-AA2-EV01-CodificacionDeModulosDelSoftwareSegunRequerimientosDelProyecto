@@ -1,4 +1,4 @@
-# Gestión de Estudiantes - JDBC
+# Evidencia **GA7-220501096-AA2-EV01**
 
 ## Descripción
 Evidencia **GA7-220501096-AA2-EV01**. Es un módulo Java con JDBC que gestiona una tabla de estudiantes en MySQL usando NetBeans y XAMPP. Permite:
